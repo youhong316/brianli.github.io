@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title><![CDATA[Brian TEST site]]></title>
-  <subtitle><![CDATA[����]]></subtitle>
+  <subtitle><![CDATA[測試]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://youhong316.github.io/"/>
-  <updated>2015-09-30T16:11:07.186Z</updated>
+  <updated>2015-09-30T16:15:08.644Z</updated>
   <id>http://youhong316.github.io/</id>
   
   <author>
@@ -15,26 +15,13 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[Hello Brianl]]></title>
-    <link href="http://youhong316.github.io/2015/09/30/Hello-Brianl/"/>
-    <id>http://youhong316.github.io/2015/09/30/Hello-Brianl/</id>
-    <published>2015-09-29T16:25:06.000Z</published>
-    <updated>2015-09-30T16:11:07.186Z</updated>
-    <content type="html"><![CDATA[<h1 id="test">test</h1><h2 id="test-1">test</h2><h1 id="This_is_an_H1_�j���D����">This is an H1 �j���D����</h1><h2 id="H2_�����D">H2 �����D</h2><h3 id="H3_�p���D">H3 �p���D</h3>]]></content>
-    <summary type="html">
-    <![CDATA[<h1 id="test">test</h1><h2 id="test-1">test</h2><h1 id="This_is_an_H1_�j���D����">This is an H1 �j���D����</h1><h2 id="H2_�����D">H2 �����D<]]>
-    </summary>
-    
-  </entry>
-  
-  <entry>
     <title><![CDATA[Hello World]]></title>
-    <link href="http://youhong316.github.io/2015/09/29/hello-world/"/>
-    <id>http://youhong316.github.io/2015/09/29/hello-world/</id>
-    <published>2015-09-29T06:07:50.079Z</published>
-    <updated>2015-09-29T06:07:50.079Z</updated>
+    <link href="http://youhong316.github.io/2015/10/01/hello-world/"/>
+    <id>http://youhong316.github.io/2015/10/01/hello-world/</id>
+    <published>2015-09-30T16:15:08.644Z</published>
+    <updated>2015-09-30T16:15:08.644Z</updated>
     <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick_Start">Quick Start</h2><h3 id="Create_a_new_post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+<h2 id="Quick_Start_快速啟始:">Quick Start 快速啟始:</h2><h3 id="Create_a_new_post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
 <p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
 <h3 id="Run_server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
 <p>More info: <a href="http://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
@@ -45,6 +32,19 @@
 ]]></content>
     <summary type="html">
     <![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Hello Brianl]]></title>
+    <link href="http://youhong316.github.io/2015/09/30/Hello-Brianl/"/>
+    <id>http://youhong316.github.io/2015/09/30/Hello-Brianl/</id>
+    <published>2015-09-29T16:25:06.000Z</published>
+    <updated>2015-09-30T16:14:32.013Z</updated>
+    <content type="html"><![CDATA[<h1 id="test">test</h1><h2 id="test-1">test</h2><h1 id="This_is_an_H1_大標題測試">This is an H1 大標題測試</h1><h2 id="H2_次標題">H2 次標題</h2><h3 id="H3_小標題">H3 小標題</h3>]]></content>
+    <summary type="html">
+    <![CDATA[<h1 id="test">test</h1><h2 id="test-1">test</h2><h1 id="This_is_an_H1_大標題測試">This is an H1 大標題測試</h1><h2 id="H2_次標題">H2 次標題</h2><h3 id="H3_小]]>
     </summary>
     
   </entry>
