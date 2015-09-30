@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title><![CDATA[Brian TEST site]]></title>
-  <subtitle><![CDATA[���զA����]]></subtitle>
+  <subtitle><![CDATA[u'���զA����]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://youhong316.github.io/"/>
   <updated>2015-09-29T16:27:32.062Z</updated>
